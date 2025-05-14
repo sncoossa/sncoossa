@@ -2,7 +2,7 @@
 
 - 🧬 Health Sciences student at the University of Waterloo ('29)
 - 📊 Infrastructure Coordinator @ BroadStreet Institute (CDC WONDER Track)
-- 🌱 Passionate about data-driven social impact, novel technologies, and clinical informatics
+- 🌱 Passionate about data-driven social impact, novel technologies, and health informatics
 - 📫 I'd love to hear from you! Feel free to send me a message at saskiacoossa@gmail.com or [LinkedIn](https://www.linkedin.com/in/saskiancoossa/)
 
 ---
